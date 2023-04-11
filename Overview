@@ -1,0 +1,7 @@
+Design pattern : 코드 재활용성, 보수 유지를 쉽게 하기 위한 방법
+Architecture Pattern : 비슷하나 저 패턴을 구조적인 형태로 관리하기 쉽게 만든 것
+
+어느 패턴이 가장 좋은지는 소프트웨어의 목적, 기능에 따라 달라짐
+가장 적확한 패턴에 맞춰 프로그램의 설계를 짜야 함
+
+facade pattern, module pattern, layered pattern, pipe and filter pattern, client server pattern, model-view-controller pattern, publish-subscribe pattern 등등 이 있음
